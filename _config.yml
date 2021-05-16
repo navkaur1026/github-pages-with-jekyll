@@ -1,6 +1,7 @@
 ---
 title: "Welcome!"
 date: 2021-05-15
+---
 author: Navpreet Kaur
 email: navkaur1026@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -14,4 +15,4 @@ twitter_username: your-twitter-handle # DO NOT include the @ character, or else 
 github_username:  navkaur1026 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
----
+
