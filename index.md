@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my portfolio"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hi, I'm Navpreet Kaur, Nav for short. ...
